@@ -1,0 +1,55 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page4594357.html
+
+RewriteEngine On
+
+RewriteRule ^aboutus$ page4630374.html [NC]
+RewriteRule ^aboutus/$ page4630374.html [NC]
+
+RewriteRule ^contact$ page4631105.html [NC]
+RewriteRule ^contact/$ page4631105.html [NC]
+
+RewriteRule ^portfolio$ page4631354.html [NC]
+RewriteRule ^portfolio/$ page4631354.html [NC]
+
+RewriteRule ^summerhouse_in_france$ page4632531.html [NC]
+RewriteRule ^summerhouse_in_france/$ page4632531.html [NC]
+
+RewriteRule ^awards$ page4632645.html [NC]
+RewriteRule ^awards/$ page4632645.html [NC]
+
+RewriteRule ^townhouse_in_london$ page4648290.html [NC]
+RewriteRule ^townhouse_in_london/$ page4648290.html [NC]
+
+RewriteRule ^header$ page4649673.html [NC]
+RewriteRule ^header/$ page4649673.html [NC]
+
+RewriteRule ^footer$ page4649677.html [NC]
+RewriteRule ^footer/$ page4649677.html [NC]
+
+RewriteRule ^luxury_penthouse$ page4649712.html [NC]
+RewriteRule ^luxury_penthouse/$ page4649712.html [NC]
+
+RewriteRule ^hilltopmansion$ page4649725.html [NC]
+RewriteRule ^hilltopmansion/$ page4649725.html [NC]
+
+RewriteRule ^semmerhouse_in_nederland$ page4649731.html [NC]
+RewriteRule ^semmerhouse_in_nederland/$ page4649731.html [NC]
+
+RewriteRule ^semmerhouse_in_nederland_2$ page4649912.html [NC]
+RewriteRule ^semmerhouse_in_nederland_2/$ page4649912.html [NC]
+
+RewriteRule ^appartment_legend$ page4649923.html [NC]
+RewriteRule ^appartment_legend/$ page4649923.html [NC]
+
+RewriteRule ^appartment_art-deco$ page4649932.html [NC]
+RewriteRule ^appartment_art-deco/$ page4649932.html [NC]
+
+RewriteRule ^summerhouse_in_germany$ page4649959.html [NC]
+RewriteRule ^summerhouse_in_germany/$ page4649959.html [NC]
+
+RewriteRule ^american_classic$ page4649977.html [NC]
+RewriteRule ^american_classic/$ page4649977.html [NC]
+

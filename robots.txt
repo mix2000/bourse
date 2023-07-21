@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+Sitemap: http://156464651.tilda.ws/sitemap.xml
+Host: 156464651.tilda.ws
